@@ -1,16 +1,6 @@
 # 30-days-of-learning-CPP
 
-
-
-🔥  Challenging 30-Day C++ Learning Plan (W3Schools-based)**
-
-📌 Goal: Go beyond just reading — every day includes a practical challenge that tests your thinking and builds real skill.
-
-🔧 Minimum time/da*: ~1–2 hours
-
-🧠 Tools: Use a local IDE (e.g., Code::Blocks, Visual Studio, VS Code + g++) or an online compiler (e.g., Replit, Compiler Explorer)
-
----
+--------------------------------------------------------------------------------------------------------------
 
 🔹 WEEK 1: Core Syntax & Data Mastery
 
